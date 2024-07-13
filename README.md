@@ -5,6 +5,6 @@
 
 Eu entendi que para instalar é necessário reconfigurar a politica de segurança do windows...
 
-seggui a orientação: https://web.dio.me/topics/dificuldades-no-modulo-desenvolvendo-sua-primeira-api-com-fastapi-python-e-docker?back=%2Ftrack%2Fcoding-future-vivo-python-ai-backend-developer&order=undefined&page=1&search=&tab=forum&track_id=70304c16-a7d8-4066-97de-16345e1653a6
+segui a orientação: https://web.dio.me/topics/dificuldades-no-modulo-desenvolvendo-sua-primeira-api-com-fastapi-python-e-docker?back=%2Ftrack%2Fcoding-future-vivo-python-ai-backend-developer&order=undefined&page=1&search=&tab=forum&track_id=70304c16-a7d8-4066-97de-16345e1653a6
 
 ....mas deu o erro acima....
